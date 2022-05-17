@@ -11,4 +11,4 @@ Don't know what to say at the moment, other than I'm a developer at heart with m
 
 ## Social
 - [Twitter](https://www.twitter.com/somedumbfox)
-- [Itch.io](somedumbfox.itch.io) 
+- [Itch.io](https://somedumbfox.itch.io) 
