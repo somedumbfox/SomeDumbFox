@@ -3,7 +3,8 @@ Don't know what to say at the moment, other than I'm a developer at heart with m
 
 ## Things I want to do!
 
- - [ ] Develop a 2D game.
+ - [x] Develop a 2D game.
+ - [ ] Develop a complete 2D game.
  - [ ] Learn to sculpt in Blender.
  - [ ] Learn to animate models in Blender.
  - [ ] Develop a 3D game. 
@@ -12,3 +13,5 @@ Don't know what to say at the moment, other than I'm a developer at heart with m
 ## Social
 - [Twitter](https://www.twitter.com/somedumbfox)
 - [Itch.io](https://somedumbfox.itch.io) 
+- [GameJolt](https://gamejolt.com/@SomeDumbFox)
+- [Discord](http://discord.somedumbfox.com)
